@@ -1,8 +1,2 @@
 theme: jekyll-theme-midnight
-jekyll_admin:
-  hidden_links:
-    - posts
-    - pages
-    - staticfiles
-    - datafiles
-    - configuration
+gem 'jekyll-admin', group: :jekyll_plugins
