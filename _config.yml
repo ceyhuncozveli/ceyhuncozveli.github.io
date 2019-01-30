@@ -1,3 +1,4 @@
 theme: jekyll-theme-midnight
+gem 'jekyll-admin', group: :jekyll_plugins
 plugins:
   - jekyll-admin
